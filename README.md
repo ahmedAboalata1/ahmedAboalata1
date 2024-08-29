@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Supplier insights](https://www.z2data.com/supplier-insights/overview)
 
-- 🌱 I’m currently learning **Angular | .NET |DevOps**
+- 🌱 I’m currently learning **Angular | .NET | DevOps**
 
 - 👨‍💻 All of my own projects are available at [https://github.com/ahmedAboalata1](https://github.com/ahmedAboalata1)
 
